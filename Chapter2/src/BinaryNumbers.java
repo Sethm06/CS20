@@ -17,6 +17,8 @@ public class BinaryNumbers
     public static void main(String args[])
     {
     	
+    	//Prints out a list of decimal numbers and their binary conversions
+    	
     	System.out.println("Decimal		Binary");
     	System.out.println("      1		     1");
     	System.out.println("      2		    10");

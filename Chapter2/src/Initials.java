@@ -17,6 +17,8 @@ public class Initials
     public static void main(String args[])
     {
     	
+    	//Prints out my initials using lines
+    	
 		System.out.println("------    ||     ||");
 		System.out.println("|         | |   | |");
 		System.out.println("|         |  | |  |");
