@@ -17,7 +17,7 @@ public class TicTacToe
     public static void main(String args[])
     {
     	
-    	//Prints off a tic-tac-toe board
+    	//Prints off a tic-tac-toe board with an X in the middle
     	
     	System.out.println("      |       |");
     	System.out.println("      |       |");
