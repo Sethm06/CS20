@@ -58,8 +58,7 @@ public class CRT
 	 		
 	 		 	a)
 	 		 	
-	 		        Primitive data types can store only a single piece of data, while abstract data types can store 
-	 		        multiple pieces of data and methods.                                                                      
+	 		        Primitive data types can store only a single piece of data, while abstract data types can store multiple pieces of data and methods.                                                                      
 	 		 	
 	 		 	b)
 	 		 	
