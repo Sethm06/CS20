@@ -1,3 +1,5 @@
+package CRT;
+
 public class CRT 
 {
 
@@ -56,9 +58,12 @@ public class CRT
 	 		
 	 		 	a)
 	 		 	
-	 		                                                                              
+	 		        Primitive data types can store only a single piece of data, while abstract data types can store 
+	 		        multiple pieces of data and methods.                                                                      
 	 		 	
 	 		 	b)
+	 		 	
+	 		 		A class is a template used for the creation of objects, while an object is an instance of a class.
 	 		
 	 		
 		 */
